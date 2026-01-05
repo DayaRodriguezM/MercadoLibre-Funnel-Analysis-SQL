@@ -105,10 +105,7 @@ Se analizó el embudo de conversión y la retención de usuarios de MercadoLibre
 
     └── executive_report_CFI.xlsx
 
-    └── funnel_metrics.csv
-
-    └── retention_cohorts.csv   
-
+  
 
 ---
 

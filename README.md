@@ -91,11 +91,15 @@ Se analizó el embudo de conversión y la retención de usuarios de MercadoLibre
 
   ├── sql/
 
-     ├── funnel_analysis.sql
+     ├── 01_data_exploration.sql
      
-     ├── retention_analysis.sq
+     ├── 02_funnel_analysis.sql
+
+     ├── 03_funnel_by_country.sql
+
+     ├── 04_retention_analysis.sql
  
-     └── data_exploration.sql
+     └── 05_cohort_analysis.sql
 
   ├── results/
 

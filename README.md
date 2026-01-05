@@ -93,15 +93,17 @@ Se analizó el embudo de conversión y la retención de usuarios de MercadoLibre
 
      ├── funnel_analysis.sql
      
-     ├── conversion_rates.sql
+     ├── retention_analysis.sq
  
-     └── retention_cohorts.sql
+     └── data_exploration.sql
 
   ├── results/
 
-    └── documentation/
+    └── executive_report_CFI.xlsx
 
-    └── executive_summary.md
+    └── funnel_metrics.csv
+
+    └── retention_cohorts.csv   
 
 
 ---
